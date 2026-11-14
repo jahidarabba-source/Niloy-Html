@@ -1,18 +1,19 @@
 <!DOCTYPE Html>
 <html>
 <head>
-<titel>Html table </titel>
+<title>Html table </titel>
 </head>
 <body>
 <table border="1">
 
 <tr>
 <th>rol</th>
-<th>information</th>
+<th colspan="2">information</th>
+</tr>
 
 <tr>
 <td rowspan="2">1</td>
-<td calspan="2">subject amd formulas</td>
+<td colspan="2">Subjects and Formula</td>
 </tr>
 
 <tr>
@@ -26,8 +27,10 @@
 <ol Type="1">
 <li>ict book</li>
 <li>masterbook</li>
+</ol>
 </td>
 </tr>
 
+</table>
 </body>
 </html>
