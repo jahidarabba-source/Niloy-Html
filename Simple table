@@ -1,0 +1,33 @@
+<!DOCTYPE Html>
+<html>
+<head>
+<titel>Html table </titel>
+</head>
+<body>
+<table border="1">
+
+<tr>
+<th>rol</th>
+<th>information</th>
+
+<tr>
+<td rowspan="2">1</td>
+<td calspan="2">subject amd formulas</td>
+</tr>
+
+<tr>
+<td>bangla</td>
+<td>english</td>
+</tr>
+
+<tr>
+<td>2</td>
+<td colspan="2" align="Left">
+<ol Type="1">
+<li>ict book</li>
+<li>masterbook</li>
+</td>
+</tr>
+
+</body>
+</html>
